@@ -1,0 +1,23 @@
+{
+    "name": "审马不积累3",
+    "description": "审马都不积累",
+    "image": "http://eotcos.xtestabc.gwht.jscaee.cn/gwht/project/migrate/8b79cf6b0f21aaff6112bb16a60eec49.jpg",
+    "attributes": [
+        {
+            "trait_type": "Description image",
+            "value": "http://eotcos.xtestabc.gwht.jscaee.cn/gwht/project/migrate/8b79cf6b0f21aaff6112bb16a60eec49.jpg"
+        },
+        {
+            "trait_type": "Level",
+            "value": 5
+        },
+        {
+            "trait_type": "审马积累",
+            "value": "NFT"
+        },
+        {
+            "trait_type": "nTF",
+            "value": "fMt"
+        }
+    ]
+}
